@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: write me here.
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: [...](https://www.juventus.bg/)
 
 <!---
 juventusbg/juventusbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
